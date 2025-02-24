@@ -20,16 +20,16 @@ This project analyzes Netflix's catalog of movies and TV shows to uncover trends
 5. What is the most common duration of content?
 
 
-1. **Understanding Data**:
+1.**Understanding Data**:
 - .shape, .info(), .describe(), .dtypes
 
-2. **Data Preprocessing**
+2.**Data Preprocessing**
 - Handling Missing Values
 - Duplicates
 - Outliers
 - DateTime Format
 
-3. **Exploratory Data Analysis (EDA)**
+3.**Exploratory Data Analysis (EDA)**
 - **Trend Analysis:** Visualized yearly additions of content on Netflix.
 - **Country Contribution:** Identified top countries producing Netflix content.
 - **Genre Analysis:** Ranked most common genres.
