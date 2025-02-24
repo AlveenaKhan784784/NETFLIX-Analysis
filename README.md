@@ -19,6 +19,7 @@ This project analyzes Netflix's catalog of movies and TV shows to uncover trends
 4. How do ratings vary across movies and TV shows?
 5. What is the most common duration of content?
 
+
 1. **Understanding Data**:
 - .shape, .info(), .describe(), .dtypes
 
